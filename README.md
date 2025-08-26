@@ -1,2 +1,2 @@
-# Reduction-de-dimensionnalite-et-techniques-de-clustering
+# DU - Unit6 - Reduction de dimensionnalite et techniques de clustering
 Nous allons porter la focale sur la reduction de dimensionnalite et le clustering. Nous explorerons differents aspects de la creation et de l’interpretation de l’analyse en composantes principales. En ce qui concerne les techniques de clustering, nous en verrons trois : le k-means, la classification ascendante hierarchique, et DBSCAN.
